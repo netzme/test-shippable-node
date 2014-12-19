@@ -4,4 +4,4 @@ language: node_js
 # Version number
 node_js:
   - 0.10.25
-
+commit_container: alukitoo/test-shippable-node
